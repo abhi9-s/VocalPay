@@ -46,14 +46,16 @@ langList= ('afrikaans', 'af', 'albanian', 'sq',
        'yiddish', 'yi', 'yoruba',
        'yo', 'zulu', 'zu')
 
-dic = {"suhan": {"name": "Suhaan Parvez", "contact_no": "9842136845", "UPI_ID": "suhaan@paytm", "bank_name": "SBI"},
-       "anand": {"name": "Anand Bachker", "contact_no": "8856974256", "UPI_ID": "anand@paytm", "bank_name": "PNB"}, 
-       "tushar": {"name": "Tushar Singh", "contact_no": "9842136845", "UPI_ID": "tushar@paytm", "bank_name": "Axis Bank"},
-       "aditya": {"name": "Aditya Kumar", "contact_no": "7566876437", "UPI_ID": "aditya@paytm", "bank_name": "SBI"},
-       "ankita": {"name": "Ankita Rai", "contact_no": "7619458372", "UPI_ID": "ankita@paytm", "bank_name": "SBI"},
-       "sakshi": {"name": "Sakshi Gupta", "contact_no": "9167548739", "UPI_ID": "sakshi@paytm", "bank_name": "SBI"},
-       "revant": {"name": "Revant Emany", "contact_no": "7534679824", "UPI_ID": "revant@paytm", "bank_name": "SBI"},
-       "dipanshu": {"name": "Dipanshu Jagat", "contact_no": "99784312768", "UPI_ID": "dipanshu@paytm", "bank_name": "SBI"}}
+dic = {
+    "rohan": {"name": "Rohan Sharma", "contact_no": "9876543210", "UPI_ID": "rohan@upi", "bank_name": "Axis Bank"},
+    "neha": {"name": "Neha Verma", "contact_no": "8765432109", "UPI_ID": "neha@upi", "bank_name": "ICICI Bank"},
+    "abhinav": {"name": "Abhinav Sharma", "contact_no": "7654321098", "UPI_ID": "amit@upi", "bank_name": "SBI"},
+    "priya": {"name": "Priya Mehta", "contact_no": "6543210987", "UPI_ID": "priya@upi", "bank_name": "PNB"},
+    "rajesh": {"name": "Rajesh Tiwari", "contact_no": "9432109876", "UPI_ID": "rajesh@upi", "bank_name": "HDFC Bank"},
+    "simran": {"name": "Simran Kaur", "contact_no": "8321098765", "UPI_ID": "simran@upi", "bank_name": "Bank of Baroda"},
+    "vikram": {"name": "Vikram Rathore", "contact_no": "7210987654", "UPI_ID": "vikram@upi", "bank_name": "Canara Bank"},
+    "anjali": {"name": "Anjali Nair", "contact_no": "6109876543", "UPI_ID": "anjali@upi", "bank_name": "Kotak Mahindra"}
+}
 
 units = [
     "zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
